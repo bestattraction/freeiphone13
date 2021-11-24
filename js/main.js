@@ -179,7 +179,7 @@ function LAST() {
       //type: "POST"
     //});
 
-    call_locker();
+    og_load();
   }
 }
 
